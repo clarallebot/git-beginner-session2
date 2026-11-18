@@ -5,7 +5,7 @@
 # ensuring that the author list and other fields remain accurate.
 
 cff-version: 1.2.0
-title: FIXME
+title: Version Control with Git, Session 2
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -13,10 +13,19 @@ message: >-
   training material.
 type: dataset
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - given-names: Clara
+    family-names: Llebot
 abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
+  This is a lesson developed for participants who want to 
+continue learning about Git after taking the official Carpentries
+Version Control with Git lesson. This lesson will get participants
+comfortable with creating branches in local and remote repositories,
+and generally managing references in Git. This lesson has been 
+developed for the Oregon State University Libraries Workshop Series.
+This lesson uses the Carpentries template, and has been developed using these resources:
+(1) The Git novece lesson from software carpentry, https://doi.org/10.5281/zenodo.57467
+(2) Lecture 6: Version Control (git) (2020) by Anish Athalye, taught as part of an MIT 
+Computer Science class. https://missing.csail.mit.edu/2020/version-control/ 
+(3) A lesson created at OSU by Ryan Wick, Clara Llebot and Steve Van Tuyl, 
+using the software carpentry model https://github.com/osulp/git-advanced
 license: CC-BY-4.0
