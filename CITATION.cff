@@ -5,7 +5,7 @@
 # ensuring that the author list and other fields remain accurate.
 
 cff-version: 1.2.0
-title: Version Control with Git, Session 2
+title: "Version Control with Git, Session 2"
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -13,8 +13,9 @@ message: >-
   training material.
 type: dataset
 authors:
-  - given-names: Clara
-    family-names: Llebot
+  - given-names: "Clara"
+    family-names: "Llebot"
+    orcid: "https://orcid.org/0000-0003-3211-7396"
 abstract: >-
   This is a lesson developed for participants who want to 
 continue learning about Git after taking the official Carpentries
@@ -29,3 +30,4 @@ Computer Science class. https://missing.csail.mit.edu/2020/version-control/
 (3) A lesson created at OSU by Ryan Wick, Clara Llebot and Steve Van Tuyl, 
 using the software carpentry model https://github.com/osulp/git-advanced
 license: CC-BY-4.0
+date-released: 2026-11-18
